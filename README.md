@@ -2,8 +2,9 @@
 <h3 align="center">Python developer by day, cyber security student by night.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adameladeb&label=Profile%20views&color=0e75b6&style=flat" alt="adameladeb" width="190" height="60" />
+  <img src="https://komarev.com/ghpvc/?username=adameladeb&label=Profile%20views&color=0e75b6&style=flat" alt="adameladeb" width="200" height="40" />
 </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
