@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adam El Adeb</h1>
 <h3 align="center">Python developer by day, cyber security student by night.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adameladeb&label=Profile%20views&color=0e75b6&style=flat" alt="adameladeb" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adameladeb&label=Profile%20views&color=0e75b6&style=flat" alt="adameladeb" width="150" height="30" />
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
