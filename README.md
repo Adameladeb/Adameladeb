@@ -2,7 +2,8 @@
 <h3 align="center">Python developer by day, cyber security student by night.</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f5e3a64ca4e853d11438cada84b336cbc640326d9ece7b05ea904163abc5978f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f477344656c7578652f636f756e742e737667" alt="adameladeb" width="200" height="40" />
+  <b>~ Profile Visits ~</b><br><br>
+  <img src="https://profile-counter.glitch.me/GsDeluxe/count.svg" />
 </p>
 
 
