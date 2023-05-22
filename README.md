@@ -2,7 +2,7 @@
 <h3 align="center">Python developer by day, cyber security student by night.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=adameladeb&label=Profile%20views&color=0e75b6&style=flat" alt="adameladeb" width="200" height="40" />
+  <img src="https://camo.githubusercontent.com/f5e3a64ca4e853d11438cada84b336cbc640326d9ece7b05ea904163abc5978f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f477344656c7578652f636f756e742e737667" alt="adameladeb" width="200" height="40" />
 </p>
 
 
