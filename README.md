@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm Adam El Adeb</h1>
-<h3 align="center">Python developer by day, cyber security student by night.</h3>
+# Welcome to My Profile!
+
+## About Me
+Hey there! I'm Adam Eladeb, an expert in the field of Cyber Security. I'm passionate about protecting digital systems and data from potential threats. Currently, I am actively working on administration tools and building a comprehensive collection of Common Vulnerabilities and Exposures (CVEs).
+
+## Areas of Expertise
+- Cyber Security
+- Threat Detection and Mitigation
+- Network Security
+- Data Privacy
+- Penetration Testing
+- Incident Response
+
+## Projects
+- [Project 1 Name]: Brief description of the project and your contributions.
+- [Project 2 Name]: Brief description of the project and your contributions.
+- [Project 3 Name]: Brief description of the project and your contributions.
+
+## Contact Me
+- Email: [idevsenior@gmail.com](mailto:idevsenior@gmail.com)
+
+Feel free to reach out to me if you have any questions or would like to collaborate on any exciting Cyber Security projects!
 
 <p align="center">
   <b>~ Profile Visits ~</b><br><br>
