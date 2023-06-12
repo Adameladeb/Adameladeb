@@ -12,9 +12,9 @@ Hey there! I'm Adam Eladeb, an expert in the field of Cyber Security. I'm passio
 - Incident Response
 
 ## Projects
-- [Project 1 Name]: Brief description of the project and your contributions.
-- [Project 2 Name]: Brief description of the project and your contributions.
-- [Project 3 Name]: Brief description of the project and your contributions.
+- [Project 1 Reverseshell]: an advanced reverseshell with so many cool features.
+- [Project 2 NetML-IDS]: Network Machine Learning Intrusion Detection .
+- [Project 3 XSS-and-SQL-scanner]: A Python script for scanning web pages for common vulnerabilities such as XSS (Cross-Site Scripting) and SQL injection 
 
 ## Contact Me
 - Email: [idevsenior@gmail.com](mailto:idevsenior@gmail.com)
