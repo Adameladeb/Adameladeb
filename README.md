@@ -4,6 +4,8 @@
 Hey there! I'm Adam Eladeb, an expert in the field of Cyber Security. I'm passionate about protecting digital systems and data from potential threats. Currently, I am actively working on administration tools and building a comprehensive collection of Common Vulnerabilities and Exposures (CVEs).
 <div align="center">
 <img src="https://i.pinimg.com/564x/2f/2d/13/2f2d137df10e16637ca21fb960e036b7.jpg"/>
+  
+  
 ## Areas of Expertise
 - Cyber Security
 - Threat Detection and Mitigation
