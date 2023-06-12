@@ -1,12 +1,12 @@
-# Welcome to My Profile!
+# Welcome to My Profile! 👋
 
-## About Me
+## About Me 🇹🇳
 Hey there! I'm Adam Eladeb, an expert in the field of Cyber Security. I'm passionate about protecting digital systems and data from potential threats. Currently, I am actively working on administration tools and building a comprehensive collection of Common Vulnerabilities and Exposures (CVEs).
 <div align="center">
 <img src="https://i.pinimg.com/564x/2f/2d/13/2f2d137df10e16637ca21fb960e036b7.jpg" style="border-radius: 50%; border: 2px solid #000;" alt="Profile Picture"/>
   
   
-## Areas of Expertise
+## Areas of Expertise 🧑🏻‍💻
 - Cyber Security
 - Threat Detection and Mitigation
 - Network Security
@@ -14,7 +14,7 @@ Hey there! I'm Adam Eladeb, an expert in the field of Cyber Security. I'm passio
 - Penetration Testing
 - Incident Response
 
-## Contact Me
+## Contact Me 📬
 - Email: [idevsenior@gmail.com](mailto:idevsenior@gmail.com)
 
 Feel free to reach out to me if you have any questions or would like to collaborate on any exciting Cyber Security projects!
