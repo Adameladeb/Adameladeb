@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋
 
 ## About Me 🇹🇳
-Hey there! I'm Adam Eladeb, an expert in the field of Cyber Security. I'm passionate about protecting digital systems and data from potential threats. Currently, I am actively working on administration tools and building a comprehensive collection of Common Vulnerabilities and Exposures (CVEs).
+Hey there! I'm Adam Eladeb, an expert in the field of Cyber Security. I'm passionate about protecting (cap) digital systems and data from potential threats. Currently, I am actively working on administration tools and building a comprehensive collection of Common Vulnerabilities and Exposures (CVEs).
 <div align="center">
 <img class="avatar" src="https://i.pinimg.com/originals/3f/00/a6/3f00a6928e10a8517b4609249385f956.gif" alt="Avatar" style="border-radius: 50%; width: 200px; height: 150px;">
 
